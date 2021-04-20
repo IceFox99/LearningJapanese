@@ -1,9 +1,7 @@
 # STDJap
-
 书籍《新版中日交流标准日本语》的知识总结。
 
 ## 初级上
-
 | 单元 \ 课时 | | | | |
 | :---: | :---: | :---: | :---: | :---: |
 | 第1单元 |[第1课](PrimaryPart1/Lesson01)|[第2课](PrimaryPart1/Lesson02)|[第3课](PrimaryPart1/Lesson03)|[第4课](PrimaryPart1/Lesson04)|
